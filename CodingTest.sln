@@ -13,9 +13,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetResultForDeclaration", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingTest", "CodingTest\CodingTest.csproj", "{B5E3CB10-1141-4921-9ED4-4CC32BC35FE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Running Sum of 1d Array", "Running Sum of 1d Array\Running Sum of 1d Array.csproj", "{550B547F-9300-4E75-A3C9-BAE3B3304981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Running Sum of 1d Array", "Running Sum of 1d Array\Running Sum of 1d Array.csproj", "{550B547F-9300-4E75-A3C9-BAE3B3304981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{5A2DD31B-FD7A-48AE-B641-382EF556172F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{5A2DD31B-FD7A-48AE-B641-382EF556172F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Pivot Index", "Find Pivot Index\Find Pivot Index.csproj", "{D4258694-6EC1-4A18-A223-0B46A6C28057}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Root Equals Sum of Children", "Root Equals Sum of Children\Root Equals Sum of Children.csproj", "{0E592C73-3DE0-426E-B471-12671D63AD95}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge Two Binary Trees", "Merge Two Binary Trees\Merge Two Binary Trees.csproj", "{D801ABC9-ED3D-43BC-B4CB-F9DD9CBE27B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "724. Find Pivot Index", "724. Find Pivot Index\724. Find Pivot Index.csproj", "{62934956-2B45-4476-83AA-31F2850D38E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "725. Split Linked List in Parts", "725. Split Linked List in Parts\725. Split Linked List in Parts.csproj", "{0DF2604F-9AD9-4672-961F-C8C47A438BE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChangeYear", "ChangeYear\ChangeYear.csproj", "{F1144B30-14F0-426F-9793-1301A3BD7129}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Max Consecutive Ones", "Max Consecutive Ones\Max Consecutive Ones.csproj", "{B6EA1CB4-9A44-48E7-9158-FD65DF923B1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Numbers with Even Number of Digits", "Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits.csproj", "{A486F720-14FE-4ABF-A91D-C9D0B1082A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squares of a Sorted Array", "Squares of a Sorted Array\Squares of a Sorted Array.csproj", "{2084AFB9-BAA5-4DF9-AAEC-D258E8762C37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +69,42 @@ Global
 		{5A2DD31B-FD7A-48AE-B641-382EF556172F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A2DD31B-FD7A-48AE-B641-382EF556172F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A2DD31B-FD7A-48AE-B641-382EF556172F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4258694-6EC1-4A18-A223-0B46A6C28057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4258694-6EC1-4A18-A223-0B46A6C28057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4258694-6EC1-4A18-A223-0B46A6C28057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4258694-6EC1-4A18-A223-0B46A6C28057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E592C73-3DE0-426E-B471-12671D63AD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E592C73-3DE0-426E-B471-12671D63AD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E592C73-3DE0-426E-B471-12671D63AD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E592C73-3DE0-426E-B471-12671D63AD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D801ABC9-ED3D-43BC-B4CB-F9DD9CBE27B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D801ABC9-ED3D-43BC-B4CB-F9DD9CBE27B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D801ABC9-ED3D-43BC-B4CB-F9DD9CBE27B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D801ABC9-ED3D-43BC-B4CB-F9DD9CBE27B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62934956-2B45-4476-83AA-31F2850D38E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62934956-2B45-4476-83AA-31F2850D38E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62934956-2B45-4476-83AA-31F2850D38E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62934956-2B45-4476-83AA-31F2850D38E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DF2604F-9AD9-4672-961F-C8C47A438BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF2604F-9AD9-4672-961F-C8C47A438BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF2604F-9AD9-4672-961F-C8C47A438BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF2604F-9AD9-4672-961F-C8C47A438BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1144B30-14F0-426F-9793-1301A3BD7129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1144B30-14F0-426F-9793-1301A3BD7129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1144B30-14F0-426F-9793-1301A3BD7129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1144B30-14F0-426F-9793-1301A3BD7129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6EA1CB4-9A44-48E7-9158-FD65DF923B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EA1CB4-9A44-48E7-9158-FD65DF923B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EA1CB4-9A44-48E7-9158-FD65DF923B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EA1CB4-9A44-48E7-9158-FD65DF923B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A486F720-14FE-4ABF-A91D-C9D0B1082A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A486F720-14FE-4ABF-A91D-C9D0B1082A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A486F720-14FE-4ABF-A91D-C9D0B1082A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A486F720-14FE-4ABF-A91D-C9D0B1082A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2084AFB9-BAA5-4DF9-AAEC-D258E8762C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2084AFB9-BAA5-4DF9-AAEC-D258E8762C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2084AFB9-BAA5-4DF9-AAEC-D258E8762C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2084AFB9-BAA5-4DF9-AAEC-D258E8762C37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
